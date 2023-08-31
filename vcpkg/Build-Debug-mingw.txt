@@ -1,0 +1,2 @@
+-DCMAKE_TOOLCHAIN_FILE=C:/Users/simen/Dev/vcpkg/scripts/buildsystems/vcpkg.cmake
+-DVCPKG_TARGET_TRIPLET=x64-mingw-static
