@@ -1,1 +1,1 @@
--DCMAKE_TOOLCHAIN_FILE=C:/Users/simen/Dev/vcpkg/scripts/buildsystems/vcpkg.cmake
+-DCMAKE_TOOLCHAIN_FILE=[path to vcpkg]/scripts/buildsystems/vcpkg.cmake
