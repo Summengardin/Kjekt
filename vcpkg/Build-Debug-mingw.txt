@@ -1,3 +1,5 @@
 -DCMAKE_TOOLCHAIN_FILE=[path to vcpkg]\scripts\buildsystems\vcpkg.cmake
 -DVCPKG_TARGET_TRIPLET=x64-mingw-static
+
+# If mvsc is cannot be found (yeah, mvsc alongside mingw...), this line has to be included as well:
 -DVCPKG_HOST_TRIPLET=x64-mingw-static
